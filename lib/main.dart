@@ -1,7 +1,7 @@
 import 'package:floating_button_with_list/float.dart';
 import 'package:flutter/material.dart';
 
-import 'floatingWithList.dart';
+import 'screens/floatingWithList.dart';
 
 void main() {
   runApp(MyApp());
